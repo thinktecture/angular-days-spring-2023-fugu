@@ -22,3 +22,7 @@ Nach dem Klonen des Repositorys führen Sie bitte folgende Kommandos auf der Kom
 npm i
 npm start
 ```
+
+## Bonusmaterial
+
+* [Advanced Progressive Web Apps: Push notifications under control](https://speakerdeck.com/christianliebel/advanced-progressive-web-apps-push-notifications-under-control-81c57f71-2200-4494-b14c-8a03c45697e6)
